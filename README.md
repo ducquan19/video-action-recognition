@@ -171,7 +171,7 @@ graph LR
 curl -LsSf https://astral.sh/uv/install.sh | sh
 
 # Clone the repository
-git clone https://github.com/yourusername/video-action-recognition.git
+git clone https://github.com/ducquan19/video-action-recognition.git
 cd video-action-recognition
 
 # uv will automatically create a virtual environment and install dependencies
@@ -182,7 +182,7 @@ uv run python --version
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/video-action-recognition.git
+git clone https://github.com/ducquan19/video-action-recognition.git
 cd video-action-recognition
 
 # Create virtual environment
